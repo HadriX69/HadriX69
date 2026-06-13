@@ -3,15 +3,17 @@
     <link href="style.css" rel="stylesheet" type="text/css">
     <h2><b>⚙️ Languages i know : </b></h2>
     
-  <p>
+  <p align="center">
   <img class="java_icon" src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000">
   <img class="python_icon" src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"></p>
     
   <h2>🎓 language I am currently learning : </h2>
      
-  <p><img class="c_icon" src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000">
+  <p align="center">
+  <img class="c_icon" src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000">
   <img class="cpp_icon" src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000">
-  <img class="csharp_icon" src="https://img.icons8.com/?size=50&id=45490&format=png&color=000000"></p>
+  <img class="csharp_icon" src="https://img.icons8.com/?size=50&id=45490&format=png&color=000000">
+  </p>
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HadriX69&show_icons=true&theme=transparent&hide_border=true" alt="Statistiques de HadriX69" />
